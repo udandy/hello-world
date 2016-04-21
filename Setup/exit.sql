@@ -4,7 +4,7 @@
     Name       : exit.sql
     Purpose    : For exiting
     Assumption : None.
-    Notes      : Updating files to test
+    Notes      : Updating files to test 2
     ---------------------------------------------------------------------------------------------
     Modification History
     ---------------------------------------------------------------------------------------------
